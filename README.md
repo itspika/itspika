@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @itspika
 - 👀 I’m interested in Data science and Python applications
 - 🌱 I’m currently learning Python Data science and Web development
-- 📫 How to reach me - 
 
 <!---
 itspika/itspika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
