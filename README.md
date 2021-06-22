@@ -4,7 +4,7 @@
 - 📫 Contact me at the below links - happy to connect with fellow learners students and professionals
 -                  - https://www.instagram.com/pika_capture/
 -                  - https://twitter.com/its_pikapika  
-- ⚡ I do Coding study streams at - [Twitch]-https://www.twitch.tv/its_pikapika  
+- ⚡ I do Coding study streams at - [Twitch](https://www.twitch.tv/its_pikapika)  
 -                          
 <!---
 itspika/itspika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
