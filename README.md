@@ -2,8 +2,8 @@
 - 👀 I’m interested in Data science and Python applications
 - 🌱 I’m currently learning Python, Data science and its tools like visualization, Statistics and mathematics for Machine learning (soon) 
 - 📫 Contact me at the below links - happy to connect with fellow learners students and professionals
--      - [Instagram](https://www.instagram.com/pika_capture/)
--      - [Twitter](https://twitter.com/its_pikapika)  
+-     dvv- [Instagram](https://www.instagram.com/pika_capture/)
+-    xdvxv  - [Twitter](https://twitter.com/its_pikapika)  
 - ⚡ I do Coding study streams at - [Twitch](https://www.twitch.tv/its_pikapika)  
 -                          
 <!---
