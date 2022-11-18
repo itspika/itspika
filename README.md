@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @itspika
 - 👀 I’m interested in Webdevelopment, Data Science , Python, Web Appliaction
 - 🌱 I’m currently learning Web devlopment right now , and would like to learn Data Science and Mathematics for Machine Learning 
-- 📫 Contact me at the below links - happy to connect with fellow learners students and professionals
 - 📷 Youtube Channel - [Youtube](https://www.youtube.com/channel/UCbaE4X60iUKzqxXRA6kf-FQ)
 - ⚡ I do Coding study streams at - [Twitch](https://www.twitch.tv/its_pikapika)  
                           
