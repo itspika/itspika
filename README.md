@@ -1,8 +1,8 @@
-# 💫 About Me:
-currently learning Full Stack Web Development <br>
+# About Me:
+Learning Full Stack Web Development 
 
 
-## 🌐 Socials:
+## Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/its_pikapika) 
 
 # 💻 Tech Stack:
